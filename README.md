@@ -11,7 +11,7 @@ This vocabulary list is originally sourced from the [UKGrammar UK to US Dictiona
 - Two JSON mapping files:
   - British to American Vocabulary
   - American to British Vocabulary
-- 121 mapped words and phrases between British and American English for comprehensive coverage.
+- 121 of the most popular mapped words and phrases between British and American English for comprehensive coverage.
 - Ready-to-use for applications that require consistent English vocabulary, especially useful when working with AI API outputs that need localization.
 
 ## Use Case
